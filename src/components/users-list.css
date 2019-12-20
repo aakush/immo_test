@@ -1,0 +1,40 @@
+
+h3 {
+  margin: 40px 0 0;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+a {
+  color: green;
+}
+
+.table-users-list td,
+.table-users-list th{
+    vertical-align:middle;
+    padding:5px 20px;
+    text-align: center;
+    white-space: nowrap;
+    border-bottom:1px solid #ccc; 
+}
+.table-users-list th{
+
+    border-bottom:2px solid #ccc; 
+}
+.table-users-list tr{
+   
+}
+.table-users-list td:first-child{
+   padding-top:5px; 
+   padding-right:0;
+   text-align: center;
+   white-space: nowrap;
+}
+.table-users-list{
+    margin-bottom:20px;
+}
